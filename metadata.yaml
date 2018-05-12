@@ -1,0 +1,30 @@
+_repo: Man-and-Nature--Or-Physical-Geography-as-Modified-by-Human-Action_37957
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, George P. (George Perkins)
+    alias: Marsh, G. P. (George Perkins)
+    birthdate: 1801
+    deathdate: 1882
+    gutenberg_agent_id: '1914'
+    url: http://www.gutenberg.org/2009/agents/1914
+description: ''
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature -- Effect of human beings on'
+- !lcc 'GF'
+- !lcsh 'Physical geography'
+- !lcsh 'Human geography'
+- !lcsh 'Conservation of natural resources'
+title: Man and Nature; Or, Physical Geography as Modified by Human Action
+url: http://www.gutenberg.org/ebooks/37957
